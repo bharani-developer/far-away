@@ -14,7 +14,7 @@ This is a simple React application that allows you to manage a packing list for 
 
 ## Demo
 
-![App Demo](https://bharani-developer.github.io/pizza-menu/)
+![App Demo](https://github.com/bharani-developer/far-away/blob/main/public/far-away.png)
 
 ## Installation
 
